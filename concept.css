@@ -1,0 +1,96 @@
+.bodycolor_pure{
+    height:100%;
+    background-color: rgb(243, 233, 247);
+    font-family: sans-serif;
+    }
+
+.bodycolor_high{
+    height:100%;
+    background-color: rgb(182, 154, 119);
+    font-family: sans-serif;
+}
+
+.bodycolor_fruit{
+    height:100%;
+    background-image: url(fruit_bg.jpg);
+    font-family: sans-serif;
+}
+
+.bodycolor_smoky{
+    height:100%;
+    background-color: rgb(71, 11, 51);
+    font-family: sans-serif;
+}
+
+.bodycolor_skin{
+    height:100%;
+    background-color: rgb(248, 242, 241);
+    font-family: sans-serif;
+}
+
+
+.bodycolor_spring{
+    height:100%;
+    background-image: url(spring.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+.bodycolor_summer{
+    height:100%;
+    background-color: rgb(250, 235, 248);
+    font-family: sans-serif;
+}
+
+.bodycolor_autumn{
+    height:100%;
+    background-image: url(autumn2.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+.bodycolor_winter{
+    height:100%;
+    background-color:rgb(19, 19, 51);
+    font-family: sans-serif;
+}
+
+h2{font-size: 1.3em;
+font-weight: bold;
+padding-top: 15px;}
+
+textarea{width:100%;
+height:250px;
+margin-top: 30px;
+margin-bottom: 70px;}
+
+.card{
+    width:450px;
+    height:550px;
+    border:10px solid rgb(231, 197, 197);
+    border-radius: 8%;
+
+    margin:60px;
+    margin-top:20px;
+    align-items: center;
+}
+.card:hover{
+    border:10px solid rgb(245, 224, 224);
+}
+
+img{    
+
+    border-radius: 8%;
+    margin-bottom: 30px;
+
+}
+
+p{
+    font-size:20px;
+    font-weight: bold;
+    color:gray;
+    line-height: 1.5em;
+}
+
+h3{font-weight: bold;}
+
